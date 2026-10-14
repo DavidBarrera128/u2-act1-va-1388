@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-Chevrolet-1388.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_1388\p1-act1-1388\img-original-1388\img-Chevrolet-1388.jpg
+Formato por extension: .JPG
+Tamano en bytes: 25438
+Tamano en KB: 24.84
+Tamano en MB: 0.0243
+
+DIMENSIONES
+-----------
+Ancho: 597 pixeles
+Alto: 335 pixeles
+Resolucion: 597 x 335
+Total de pixeles: 199,995
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 111.96
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 102.89
+Verde (G): 115.22
+Rojo (R): 117.78
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
